@@ -1,5 +1,5 @@
 # Hey there 👋
-## I am Harshalkumar Loya!
+## I am Harshal Loya!
 
 ### 🎓 Education
 Master's in Data Science from the University of Rochester.
