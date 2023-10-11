@@ -15,7 +15,7 @@ Proficient in Python, Machine Learning Models, Data Visualization, and Cloud Ser
 
 ### 🌐 Connect with Me
 - 🔗 **LinkedIn**: [Harshalkumar Loya](https://linkedin.com/in/harshalloya/)
-- 🌐 **Portfolio**: [(Portfolio)](https://hloya55.github.io/harshal.github.io/)
+- 🌐 **Portfolio**: [(harshalloya.com)](https://hloya55.github.io/harshal.github.io/)
 - 📧 **Email**: [hloya@ur.rochester.edu](mailto:hloya@ur.rochester.edu)
 
 ### 📣 A bit more about me...
